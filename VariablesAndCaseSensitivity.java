@@ -14,9 +14,3 @@ public class VariablesAndCaseSensitivity {
         System.out.println("Counter (Different Case): " + Counter);
     }
 }
-
-Student Age: 15
-Item Price: $29.99
-Student Name: Alice
-Counter: 10
-Counter (Different Case): 20
